@@ -6,9 +6,10 @@ turns = 5
 
 guesses = ''
 
-failures = 0
+
 
 while turns > 0:
+    failures = 0
 
     for char in word:
         if char in guesses:
