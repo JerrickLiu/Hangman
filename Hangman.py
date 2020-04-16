@@ -1,6 +1,9 @@
 import time
+from random_word import RandomWords
 
-word = 'hangman'
+r = RandomWords()
+
+word = r.get_random_word()
 
 turns = 5
 
