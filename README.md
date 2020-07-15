@@ -1,6 +1,6 @@
 # Hangman
 
-Simple python script to play hangman using random-word library as a random word generator
+Simple python script to play hangman using the random-word library as a random word generator
 
 ## Installation of random word generator
 
